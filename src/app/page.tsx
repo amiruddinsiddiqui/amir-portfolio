@@ -222,7 +222,7 @@ export default function Page() {
                   Contact
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  Let's Talk
+                  Let&apos;s Talk
                 </h2>
                 <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   I&apos;m always open to new opportunities and collaborations.

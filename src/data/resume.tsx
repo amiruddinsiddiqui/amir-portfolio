@@ -39,7 +39,7 @@ export const DATA = {
   location: "India",
   locationLink: "https://www.google.com/maps/place/india",
   description: "Software Engineer | Backend & AI | Scalable systems",
-  summary: "I’m a Software Engineer focused on Backend and AI, with a strong interest in building scalable systems and intelligent solutions. A CSE sophomore who’s always exploring new technologies beyond the classroom.",
+  summary: "I'm a Software Engineer focused on Backend and AI, with a strong interest in building scalable systems and intelligent solutions. A CSE sophomore who’s always exploring new technologies beyond the classroom.",
   avatarUrl: "/img.png",
 
   skills: [
